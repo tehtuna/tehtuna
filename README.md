@@ -5,12 +5,21 @@ Austin, TX · [thisistina.com](https://thisistina.com)
 
 ---
 
-I've spent 20+ years designing and building for the web. These days I work at the intersection of conversion-focused design and intelligent automation — helping solo founders and small teams get a site that actually converts, paired with the workflows and AI systems to support it.
+<table><tr><td valign="top" width="60%">
 
-I run two studios:
+I've spent 20+ years designing and building for the web. These days I work at the intersection of conversion-focused design and intelligent automation, helping solo founders and small teams get a site that actually converts, paired with the workflows and AI systems to support it.
 
-🎨 **[thisistina.design](https://thisistina.design)** — Web design & development
-🔧 **[thisistina.dev](https://thisistina.dev)** — AI workflows, automation & custom agent systems
+</td><td valign="top" width="40%">
+
+**My Studios**
+
+🎨 **[thisistina.design](https://thisistina.design)**
+Web design & development
+
+🔧 **[thisistina.dev](https://thisistina.dev)**
+AI workflows, automation & custom agent systems
+
+</td></tr></table>
 
 ---
 
@@ -25,8 +34,6 @@ I run two studios:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tehtuna&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
