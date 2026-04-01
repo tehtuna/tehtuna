@@ -35,7 +35,7 @@ I run two studios:
 
 ### 📊 GitHub Stats
 
-![Tina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tehtuna&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=1e293b&bg_color=ffffff)
+![Visitor Count](https://komarev.com/ghpvc/?username=tehtuna&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
