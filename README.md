@@ -5,10 +5,27 @@ Austin, TX · [thisistina.com](https://thisistina.com)
 
 ---
 
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
 I've spent 20+ years designing and building for the web. These days I work at the intersection of conversion-focused design and intelligent automation, helping solo founders and small teams get a site that actually converts, paired with the workflows and AI systems to support it.
 
-🎨 **[thisistina.design](https://thisistina.design)** — Web design & development
-🔧 **[thisistina.dev](https://thisistina.dev)** — AI workflows, automation & custom agent systems
+</td>
+<td width="10%"></td>
+<td width="30%" valign="top">
+
+**My Studios**
+
+🎨 **[thisistina.design](https://thisistina.design)**
+Web design & development
+
+🔧 **[thisistina.dev](https://thisistina.dev)**
+AI workflows, automation & custom agent systems
+
+</td>
+</tr>
+</table>
 
 ---
 
